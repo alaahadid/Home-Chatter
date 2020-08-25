@@ -1,5 +1,6 @@
 # HOME CHATTER
 A program that allows to chat using basic LAN connection. 
+Please note that this is the official repository of the program, that means official updates on source and releases will be commited/published here.
 
 ## Introduction
 
